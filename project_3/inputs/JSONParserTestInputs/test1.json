@@ -1,0 +1,18 @@
+{
+	"status": "ok",
+	"totalResults": 2,
+	"articles": [
+	  {
+	    "title": "Breaking News: Major Event Unfolds",
+	    "description": "A major event has occurred in the city, affecting thousands.",
+	    "publishedAt": "2024-10-20T10:30:00Z",
+	    "url": "https://example.com/news/major-event"
+	  },
+	  {
+	    "title": "Tech Advances in 2024",
+	    "description": "2024 has seen a lot of technological breakthroughs.",
+	    "publishedAt": "2024-10-19T14:00:00Z",
+	    "url": "https://example.com/news/tech-advances"
+	  }
+	]
+}

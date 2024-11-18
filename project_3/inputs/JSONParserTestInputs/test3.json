@@ -1,0 +1,12 @@
+{
+	"status": "ok",
+	"totalResults": 2,
+	  "articles": [
+	    {
+	      "title": "Sports Update",
+	      "description": "Local team wins championship!",
+	      "publishedAt": "InvalidDate",
+	      "url": "https://example.com/news/sports-update"
+	    }
+	  ]
+}

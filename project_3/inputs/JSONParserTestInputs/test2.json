@@ -1,0 +1,26 @@
+{
+	"status": "ok",
+	"totalResults": 2,
+	"articles": [
+	    {
+	      "title": "Economic Growth on the Rise",
+	      "publishedAt": "2024-10-18T08:45:00Z",
+	      "url": "https://example.com/news/economic-growth"
+	    },
+		{
+		  "description": "discription",
+	      "publishedAt": "2024-10-18T08:45:00Z",
+	      "url": "https://example.com/news/economic-growth"
+	    },
+		{
+		  "description": "discription",
+	      "title": "Economic Growth on the Rise",
+	      "url": "https://example.com/news/economic-growth"
+	    },
+		{
+		  "description": "discription",
+	      "title": "Economic Growth on the Rise",
+	      "publishedAt": "2024-10-18T08:45:00Z"
+	    }
+	  ]
+}

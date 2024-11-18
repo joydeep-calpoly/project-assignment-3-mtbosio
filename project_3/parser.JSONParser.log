@@ -1,0 +1,6 @@
+Nov 17, 2024 4:08:40 PM parser.JSONParser parse
+WARNING: Failed to parse articles: Missing creator property 'description' (index 1); `DeserializationFeature.FAIL_ON_MISSING_CREATOR_PROPERTIES` enabled
+ at [Source: (FileInputStream); line: 9, column: 6] (through reference chain: parser.NewsData["articles"]->java.util.ArrayList[0]->parser.Article["description"])
+Nov 17, 2024 4:08:40 PM parser.JSONParser parse
+WARNING: Failed to parse articles: Cannot deserialize value of type `java.util.Date` from String "InvalidDate": not a valid representation (error: Failed to parse Date value 'InvalidDate': Cannot parse date "InvalidDate": not compatible with any of standard forms ("yyyy-MM-dd'T'HH:mm:ss.SSSX", "yyyy-MM-dd'T'HH:mm:ss.SSS", "EEE, dd MMM yyyy HH:mm:ss zzz", "yyyy-MM-dd"))
+ at [Source: (FileInputStream); line: 8, column: 23] (through reference chain: parser.NewsData["articles"]->java.util.ArrayList[0]->parser.Article["publishedAt"])

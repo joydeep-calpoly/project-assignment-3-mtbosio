@@ -1,0 +1,24 @@
+{
+	"status": "ok",
+	"totalResults": 3,
+	"articles": [
+	    {
+	      "title": "Global Climate Change: What's Next?",
+	      "description": "Scientists reveal alarming data about climate trends in the coming decades. The impacts will be widespread.",
+	      "publishedAt": "2024-10-15T16:55:00Z",
+	      "url": "https://example.com/news/climate-change"
+	    },
+	    {
+	      "title": "The Rise of AI in Healthcare",
+	      "description": "AI technologies are transforming healthcare, from diagnosis to treatment.",
+	      "publishedAt": "2024-10-14T09:30:00Z",
+	      "url": "https://example.com/news/ai-healthcare"
+	    },
+	    {
+	      "title": "Local Farmer Wins Sustainability Award",
+	      "description": "Recognition given for innovative practices that reduce waste and improve crop yield.",
+	      "publishedAt": "2024-10-13T12:10:00Z",
+	      "url": "https://example.com/news/farmer-award"
+	    }
+  	]
+}
